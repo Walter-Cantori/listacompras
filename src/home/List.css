@@ -28,3 +28,11 @@
   font-weight: bolder;
   color: #757575;
 }
+
+.closed-list { 
+  border-left: 5px solid #00b0ff
+}
+
+.opened-list { 
+  border-left: 5px solid #e91e63;
+}
